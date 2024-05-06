@@ -16,3 +16,4 @@ structlog==16.1.0
 termcolor==1.1.0
 WTForms==2.1
 stripe==2.23.0
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
